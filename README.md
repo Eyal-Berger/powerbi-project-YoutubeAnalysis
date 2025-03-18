@@ -11,9 +11,10 @@ This is my Power BI dashboard showcasing data analysis skills.
 ## Screenshots
 Here are the screenshots of the Power BI report:
 
-![Conversion Screenshot](screenshots/conversion.png)
-![Category Screenshot](screenshots/category.png)
-![Map Screenshot](screenshots/map.png)
-![CPM Screenshot](screenshots/cpm.png)
-![Stock Screenshot](screenshots/stock.png)
-![Main Page Screenshot](screenshots/mainPage.png)
+![Conversion Screenshot](category.png)
+![Conversion Screenshot](conversion.png)
+![CPM Screenshot](cpm.png)
+![Map Screenshot](map.png)
+![Stock Screenshot](stock.png)
+![Main Page Screenshot](mainPage.png)
+
